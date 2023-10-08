@@ -3,8 +3,8 @@ collection of versatile 3D models. Collaborators have contributed to this resour
 
 | **Collaborators**                                     |
 |-------------------------------------------------------|
-| [UsamaHussainDev](https://github.com/UsamaHussainDev) |
-| [MalikMuhammadFarhadAshraf](https://github.com/MALIKMUHAMMADFAHRADASHRAF) |
+| 😊 [UsamaHussainDev](https://github.com/UsamaHussainDev) |
+| 😍 [MalikMuhammadFarhadAshraf](https://github.com/MALIKMUHAMMADFAHRADASHRAF) |
 
 
 ## Overview

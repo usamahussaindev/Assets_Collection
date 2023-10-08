@@ -1,4 +1,6 @@
-# Augmented Reality Project
+# Collection Of 3D Models 
+
+collection of versatile 3D models. Collaborators have contributed to this resource, offering compatibility in multiple formats to elevate your augmented reality experiences.
 
 | **Collaborators**                                     |
 |-------------------------------------------------------|
@@ -8,7 +10,7 @@
 
 ## Overview
 
-Welcome to the Augmented Reality project! This repository contains a collection of 3D models used for augmented reality applications. These models are available in various file formats to cater to different needs and software compatibility.
+ This repository contains a collection of 3D models used for augmented reality applications. These models are available in various file formats to cater to different needs and software compatibility.
 
 Supported 3D model formats:
 

@@ -1,5 +1,4 @@
-# Collection Of 3D Models 
-
+# Collection Of Assets
 collection of versatile 3D models. Collaborators have contributed to this resource, offering compatibility in multiple formats to elevate your augmented reality experiences.
 
 | **Collaborators**                                     |
@@ -30,7 +29,7 @@ Supported 3D model formats:
 
 ![Screenshot 2023-10-08 135957](https://github.com/usamahussaindev/Assets_Collection/assets/118635657/fe353550-92ca-4fff-bf77-a9234787772c)
 
-The diagram above illustrates the supported 3D model formats in this project.
+TheX supported 3D model formats in this project.
 Clone this repository to your local machine using the following command:
    
    ```shell
